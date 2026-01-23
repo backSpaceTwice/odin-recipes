@@ -18,3 +18,13 @@ ul a {
 .title {
   text-align: center;
 }
+
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  max-width: 700px;
+}
